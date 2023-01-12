@@ -20,7 +20,7 @@ I found that the most common spectral type of stars in the data set was the clas
 
 Then, I moved on to the main part of my challenge--creating the Hertzsprung-Russell diagram. This is the most common diagram used to visualize and interpret data related to star properties:
 
-![HR](HRDiagram.png)
+![HR](HRdiagram.png)
 
 ## Considerations
 
